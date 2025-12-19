@@ -1,0 +1,24 @@
+Test Case 1:
+Name: Priya
+Marks: 85
+Expected Grade: B
+
+Test Case 2:
+Name: Rahul
+Marks: 95
+Expected Grade: A
+
+Test Case 3:
+Name: Anu
+Marks: 45
+Expected Grade: F
+
+Test Case 4:
+Name: Sam
+Marks: -10
+Expected: Error message
+
+Test Case 5:
+Name: John
+Marks: abc
+Expected: Invalid input handled
