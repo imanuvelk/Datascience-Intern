@@ -1,0 +1,16 @@
+Hypothesis Test Results
+
+1. One-sample t-test:
+Mean sales significantly different from benchmark (p < 0.05)
+
+2. Regional sales comparison:
+Sales difference between regions statistically evaluated
+
+3. Churn analysis:
+Sales difference between churned and retained customers tested
+
+Confidence Interval:
+95% confidence interval calculated for average sales
+
+Regression:
+Quantity shows statistically significant relationship with Total Sales
